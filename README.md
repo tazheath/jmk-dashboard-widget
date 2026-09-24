@@ -28,7 +28,7 @@ The embed is an **empty config div** plus the **script tag**:
 ```html
 <div class="jmk-dash"
      data-location=""
-     data-base-id="appXXXXXXXXXXXXXX"
+     data-base-id="appoYop08wLow5fqF"
      data-token="patXXXXXXXXXXXXXX"
      data-form-add="https://airtable.com/embed/appXXXX/pagXXXX/form"
      data-form-price="https://airtable.com/embed/appXXXX/pagXXXX/form"
@@ -36,7 +36,7 @@ The embed is an **empty config div** plus the **script tag**:
      data-form-sold="https://airtable.com/embed/appXXXX/pagXXXX/form"
      data-form-archive="https://airtable.com/embed/appXXXX/pagXXXX/form"></div>
  
-<script src="https://cdn.jsdelivr.net/gh/tazheath/jmk-dashboard-widget@COMMIT_SHA/dashboard.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/tazheath/jmk-dashboard-widget@8c2d53d8f764e48773402cf29c765fd578f85abb/dashboard.js" defer></script>
 ```
  
 - Leave the div empty. Anything inside it is replaced when the dashboard loads.
