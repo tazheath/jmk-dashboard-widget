@@ -1,25 +1,3 @@
-
-/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Readme · MD
 # Dashboard Widget
  
 Self-hosted salesman inventory dashboard. Lists available vehicles from an Airtable base with search and a location filter, and opens Airtable forms in a modal for common actions — add, edit price, replace photos, mark sold, and delete. Client-side only — no build step.
